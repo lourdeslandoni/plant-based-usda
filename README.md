@@ -11,7 +11,7 @@ Se incluyen distintas solapas que permiten visualizar información sobre las sig
 
 También cuenta con filtros por **Subategoría de Producto** y **Categorías de Ingredientes**.
 __________________________________________________________________________________________________________________________________________
-EN
+(EN)
 
 ## 📊🧾 Overview
 
