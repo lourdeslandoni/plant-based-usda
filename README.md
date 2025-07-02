@@ -26,3 +26,9 @@ Different tabs are included to view information on the following food categories
 
 It also has filters by **Product Subcategory** and **Ingredient Categories**.
 __________________________________________________________________________________________________________________________________________
+# Dashboard highlights
+![pb1](https://github.com/user-attachments/assets/6fd4fbae-c963-43d8-a367-2be6c6d43398)
+![pb2](https://github.com/user-attachments/assets/9ef4eec9-b2d1-4e72-b0ab-fd1d72281822)
+![pb3](https://github.com/user-attachments/assets/c0a05d68-6810-4954-bc1d-b7130fe2a8cf)
+![pb4](https://github.com/user-attachments/assets/2802918e-bfb2-4812-8efd-8a105cc528d5)
+![pb5](https://github.com/user-attachments/assets/c92ea538-874d-4af5-bd8f-4af28160fe7f)
