@@ -13,7 +13,7 @@ También cuenta con filtros por **Subategoría de Producto** y **Categorías de 
 __________________________________________________________________________________________________________________________________________
 (EN)
 
-## 📊🧾 Overview
+## 🧾 Overview
 
 This interactive Power BI dashboard presents an analysis of plant-based foods currently sold in the United States.
 
